@@ -1,0 +1,9 @@
+LIST OF PRODUCTS:
+
+Name		Code		Price		Production Date
+
+ice-cream	1234		$100		12/3/13
+panadol		4321		$10		10/1/13
+doll		5678		$50		01/2/13
+book		234		$75		14/1/12
+shirt		432		$90		12/12/13          
